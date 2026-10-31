@@ -1,0 +1,253 @@
+Student_ID,Student_Name,Gender,Branch,Sem,Attendance,DBMS,DSA,OS,CN,BI,Internal_Score
+STU1001,Aarav Mehta,Male,Information Technology,4,92.3,57,37,78,77,82,21.5
+STU1002,Mrunal Shah,Female,Artificial Intelligence & Data Science,4,81.5,72,79,48,77,84,18.4
+STU1003,Sakshi Kadam,Female,Computer Science & Business Systems,5,69.1,27,25,42,29,67,17.0
+STU1004,Tejas Pawar,Male,Computer Engineering,6,63.2,47,50,20,69,27,15.2
+STU1005,Neha Jadhav,Female,Information Technology,5,81.3,89,55,58,64,71,18.8
+STU1006,Siddhesh Shah,Male,Computer Engineering,6,93.1,62,87,74,74,59,19.9
+STU1007,Suyash Shah,Male,Information Technology,4,84.3,83,55,64,79,62,20.2
+STU1008,Akash Pawar,Male,Computer Engineering,4,77.1,66,69,67,52,54,18.1
+STU1009,Ishita Salvi,Female,Artificial Intelligence & Data Science,6,88.0,90,56,87,88,72,20.0
+STU1010,Siddhi Rane,Female,Computer Science & Business Systems,6,81.2,46,54,65,93,57,18.4
+STU1011,Tejas More,Male,Computer Engineering,5,87.7,73,46,77,69,99,22.1
+STU1012,Kunal Gawde,Male,Computer Science & Business Systems,4,97.3,74,77,73,90,82,23.5
+STU1013,Vaishnavi Joshi,Female,Computer Engineering,5,89.3,99,56,66,48,69,21.5
+STU1014,Akshata Rane,Female,Computer Science & Business Systems,4,82.9,56,54,60,70,77,20.1
+STU1015,Sneha Deshmukh,Female,computer science & business systems,6,90.7,72,70,82,62,48,22.4
+STU1016,Pranali Pandey,Female,Artificial Intelligence & Data Science,5,86.0,74,60,44,75,71,19.8
+STU1017,Pranali Gawde,Female,Computer Engineering,4,78.3,76,77,69,65,82,17.1
+STU1018,Yash Vartak,Male,Computer Science & Business Systems,4,57.5,21,47,61,64,58,16.4
+STU1019,Sayali Mhatre,Female,Artificial Intelligence & Data Science,6,98.4,49,55,72,79,90,22.8
+STU1020,Rohan Patil,Male,Artificial Intelligence & Data Science,6,87.5,66,79,71,72,68,18.8
+STU1021,Akash Kadam,Male,Computer Engineering,6,89.6,54,72,33,64,78,19.9
+STU1022,Shreya Dhumal,Female,Information Technology,5,92.7,91,77,72,99,72,19.8
+STU1023,Shruti Shinde,Female,Information Technology,4,83.7,85,85,59,51,92,17.8
+STU1024,Kunal Pandey,Male,Computer Science & Business Systems,4,95.9,68,63,57,67,81,21.6
+STU1025,  SAHIL KULKARNI  ,Male,Artificial Intelligence & Data Science,5,94.9,82,71,65,70,75,21.0
+STU1026,Yash Shah,Male,Artificial Intelligence & Data Science,6,44.4,27,69,22,20,43,12.2
+STU1027,Riddhi Patil,Female,Information Technology,5,93.7,89,40,68,79,91,23.3
+STU1028,Mansi Mehta,Female,Computer Engineering,4,97.9,85,74,38,92,76,21.9
+STU1029,Tushar Mehta,Male,Computer Engineering,5,64.4,47,46,35,51,65,17.2
+STU1030,Atharva Vartak,Male,computer engineering,5,95.3,64,74,63,60,61,24.0
+STU1031,Aarav Kadam,Male,Information Technology,4,98.1,88,67,51,89,35,21.1
+STU1032,Tanmay Tambe,Male,Computer Science & Business Systems,6,87.2,86,70,45,90,64,19.2
+STU1033,Shreya Deshmukh,Female,Information Technology,6,91.9,66,74,53,77,70,21.1
+STU1034,Tushar Mehta,Male,Computer Engineering,6,84.5,77,69,55,75,96,20.3
+STU1035,Sayali Rane,Female,Computer Engineering,6,96.2,72,55,80,78,64,23.5
+STU1036,Tushar Mhatre,Male,Computer Engineering,4,43.5,39,65,43,51,34,13.2
+STU1037,Suraj Shah,Male,Artificial Intelligence & Data Science,5,78.5,59,36,84,47,74,19.9
+STU1038,Nikhil Patil,Male,Computer Engineering,4,93.8,60,42,29,41,53,23.3
+STU1039,Chetan Kulkarni,Male,Artificial Intelligence & Data Science,6,78.7,80,51,65,42,68,18.7
+STU1040,Sayali Chavan,Female,Information Technology,4,82.5,94,56,63,72,93,20.3
+STU1041,Divya Deshmukh,Female,Artificial Intelligence & Data Science,5,68.7,29,61,48,48,67,16.6
+STU1042,Kunal Sawant,Male,Artificial Intelligence & Data Science,6,87.8,58,55,59,72,87,18.7
+STU1043,Shreya Sawant,Female,Computer Engineering,5,98.0,40,57,48,58,85,24.1
+STU1044,Shruti Sawant,Female,Information Technology,4,82.9,77,71,57,83,68,20.9
+STU1045,Kavya Joshi,Female,computer science & business systems,5,76.6,74,62,75,71,82,17.3
+STU1046,Pranali Bhave,Female,Computer Engineering,5,93.0,53,72,82,69,65,22.9
+STU1047,Prathamesh Bhave,Male,Computer Science & Business Systems,5,96.3,46,87,71,87,77,23.0
+STU1048,Shreya Salvi,Female,Computer Science & Business Systems,6,83.2,61,51,71,56,72,21.0
+STU1049,Prathamesh Thakur,Male,Information Technology,6,85.8,75,70,45,66,49,21.3
+STU1050,  KAVYA BHAVE  ,Female,Information Technology,5,94.5,49,88,80,70,88,22.3
+STU1050,  KAVYA BHAVE  ,Female,Information Technology,5,94.5,49,88,80,70,88,22.3
+STU1051,Samiksha Bhoir,Female,Information Technology,4,83.3,69,74,41,53,56,18.4
+STU1052,Divya Bhoir,Female,Computer Engineering,6,91.7,64,61,66,65,86,20.3
+STU1053,Harsh Bhoir,Male,Information Technology,5,87.9,61,75,61,79,70,21.6
+STU1054,Suraj Jadhav,Male,Computer Engineering,4,81.5,58,43,52,37,50,20.6
+STU1055,Neha Jadhav,Female,Information Technology,4,78.0,74,64,56,99,57,17.0
+STU1056,Tanvi Bhoir,Female,Artificial Intelligence & Data Science,5,97.7,52,63,93,73,75,22.5
+STU1057,Tushar Patil,Male,Computer Engineering,4,97.3,79,68,51,64,56,23.6
+STU1058,Sayali Mhatre,Female,Artificial Intelligence & Data Science,5,76.4,59,69,63,71,52,17.3
+STU1059,Pooja Jadhav,Female,Computer Science & Business Systems,4,56.4,39,36,48,74,47,15.0
+STU1060,Siddhesh Bhave,Male,computer engineering,5,49.2,33,50,55,53,56,14.0
+STU1061,Suyash Mhatre,Male,Artificial Intelligence & Data Science,4,82.1,61,69,50,65,48,20.4
+STU1062,Aarav Chavan,Male,Computer Engineering,6,88.5,53,99,48,64,62,18.9
+STU1063,Mayur Kulkarni,Male,Artificial Intelligence & Data Science,5,60.7,38,29,57,57,40,16.6
+STU1064,Aditi Bhoir,Female,Information Technology,6,94.1,88,48,60,64,83,23.7
+STU1065,Akshata Vartak,Female,Artificial Intelligence & Data Science,5,58.6,37,30,40,51,51,13.9
+STU1066,Mayur Kadam,Male,Computer Science & Business Systems,6,80.6,77,73,80,63,70,21.1
+STU1067,Nikhil Kadam,Male,Computer Engineering,5,81.9,66,49,49,71,64,18.1
+STU1068,Chetan Shinde,Male,Computer Science & Business Systems,5,95.1,72,50,86,69,73,22.9
+STU1069,Suyash Pandey,Male,Artificial Intelligence & Data Science,4,86.4,58,84,42,92,99,19.2
+STU1070,Divya Patil,Female,Information Technology,6,96.5,41,32,93,74,52,20.9
+STU1071,Omkar Kulkarni,Male,Information Technology,4,85.3,55,60,63,55,67,19.9
+STU1072,Swapnil Salvi,Male,Artificial Intelligence & Data Science,6,52.5,42,34,27,71,46,15.0
+STU1073,Yash Patil,Male,Computer Science & Business Systems,4,96.6,93,63,59,72,53,22.1
+STU1074,Aarav Patil,Male,Information Technology,4,83.8,49,74,79,46,62,18.4
+STU1075,Ishita Salvi,Female,computer engineering,5,78.4,60,66,65,71,82,19.4
+STU1076,Sayali Pawar,Female,Information Technology,6,91.2,42,52,68,96,72,19.7
+STU1077,Neha Bhave,Female,Information Technology,6,98.0,64,54,45,60,72,23.0
+STU1078,Kunal Gawde,Male,Information Technology,4,89.6,66,53,45,55,50,21.4
+STU1079,Siddhesh Patil,Male,Information Technology,5,53.7,74,69,37,64,61,15.2
+STU1080,Akshata Tambe,Female,Computer Engineering,5,97.2,93,74,63,86,54,22.3
+STU1081,Pooja Pandey,Female,Artificial Intelligence & Data Science,6,93.6,87,65,45,75,63,23.0
+STU1082,Prathamesh Pandey,Male,Computer Engineering,5,70.3,31,20,32,50,58,18.4
+STU1083,Kunal Dhumal,Male,Artificial Intelligence & Data Science,4,72.3,44,61,72,68,64,18.1
+STU1084,Yash Thakur,Male,Computer Engineering,5,94.6,82,38,43,65,93,20.8
+STU1085,Pooja Pawar,Female,Computer Science & Business Systems,6,96.2,67,59,59,99,97,20.6
+STU1086,Arya Salvi,Female,Computer Science & Business Systems,4,80.7,62,76,78,91,82,18.0
+STU1087,Pooja Deshmukh,Female,Computer Engineering,6,69.5,55,50,45,59,50,15.0
+STU1088,Atharva Bhave,Male,Information Technology,4,104.5,47,42,25,49,34,12.9
+STU1089,Prathamesh Rane,Male,Computer Engineering,6,67.1,63,29,20,60,69,16.0
+STU1090,Mayur Shah,Male,artificial intelligence & data science,4,82.6,76,67,71,56,59,20.4
+STU1091,Mansi Kulkarni,Female,Information Technology,5,85.1,72,56,49,45,45,19.7
+STU1092,Gaurav Deshmukh,Male,Artificial Intelligence & Data Science,5,77.2,61,44,74,63,78,20.1
+STU1093,Ananya Chavan,Female,Artificial Intelligence & Data Science,4,83.8,73,67,82,64,65,21.3
+STU1094,Gaurav Mehta,Male,Computer Science & Business Systems,5,83.3,57,54,60,63,64,18.1
+STU1095,Harsh Kadam,Male,Information Technology,6,85.1,48,54,50,54,54,20.7
+STU1096,Aarav Jadhav,Male,Information Technology,6,96.7,63,58,72,82,88,20.6
+STU1097,Aarav Chavan,Male,Computer Engineering,5,83.0,55,79,68,51,76,18.2
+STU1098,Tushar Chavan,Male,Information Technology,5,86.4,72,53,69,69,65,20.0
+STU1099,Shreya Bhave,Female,Artificial Intelligence & Data Science,6,76.1,55,75,77,70,74,17.2
+STU1100,  SAMIKSHA BHOIR  ,Female,Artificial Intelligence & Data Science,4,59.0,58,46,65,42,39,14.4
+STU1101,Gaurav Vartak,Male,Artificial Intelligence & Data Science,4,88.5,50,53,59,72,84,21.9
+STU1102,Suraj Pawar,Male,Computer Science & Business Systems,5,80.7,72,49,56,59,79,18.5
+STU1103,Siddhi Chavan,Female,Computer Science & Business Systems,6,96.3,57,81,76,46,73,21.0
+STU1104,Siddhesh Chavan,Male,Computer Engineering,6,92.7,78,64,50,85,64,22.1
+STU1105,Siddhesh Deshmukh,Male,computer engineering,5,56.2,46,55,63,56,45,12.5
+STU1106,Aditya Dhumal,Male,Computer Science & Business Systems,6,84.0,84,33,48,69,68,21.4
+STU1107,Tanmay Deshmukh,Male,Artificial Intelligence & Data Science,6,44.0,77,64,31,70,42,10.8
+STU1108,Sayali Kulkarni,Female,Computer Engineering,5,81.6,70,52,72,49,58,19.9
+STU1109,Pranali Joshi,Female,Artificial Intelligence & Data Science,5,95.0,89,59,68,74,56,21.2
+STU1110,Tushar Sawant,Male,Computer Engineering,6,77.0,43,44,58,66,78,19.2
+STU1111,Tushar Kulkarni,Male,Computer Science & Business Systems,6,86.9,82,64,77,65,73,22.4
+STU1112,Tanvi Kadam,Female,Computer Science & Business Systems,6,93.0,61,72,75,83,95,22.7
+STU1113,Sanket Mehta,Male,Artificial Intelligence & Data Science,4,90.9,71,78,60,92,56,20.4
+STU1114,Mayur More,Male,Information Technology,6,98.1,75,52,68,56,84,24.5
+STU1115,Tejas Shinde,Male,Information Technology,4,95.5,64,61,80,46,67,21.2
+STU1116,Omkar Thakur,Male,Computer Science & Business Systems,4,95.8,93,76,59,58,80,21.7
+STU1117,Pooja Vartak,Female,Information Technology,4,90.3,72,56,59,95,69,21.9
+STU1118,Samiksha Chavan,Female,Computer Science & Business Systems,5,78.5,63,81,58,48,83,17.7
+STU1119,Pooja Thakur,Female,Artificial Intelligence & Data Science,4,71.0,48,41,33,48,63,17.7
+STU1120,Divya Jadhav,Female,computer science & business systems,6,76.6,82,47,62,87,71,17.9
+STU1120,Divya Jadhav,Female,computer science & business systems,6,76.6,82,47,62,87,71,17.9
+STU1121,Arya Sawant,Female,Information Technology,5,83.4,79,67,61,64,52,18.2
+STU1122,Sakshi Dhumal,Female,Computer Engineering,6,91.3,58,46,46,91,81,21.1
+STU1123,Sneha More,Female,Computer Science & Business Systems,5,87.1,87,62,65,92,77,21.5
+STU1124,Swapnil Tambe,Male,Computer Science & Business Systems,5,84.4,82,30,78,64,80,20.6
+STU1125,  AKSHATA TAMBE  ,Female,Computer Science & Business Systems,6,85.1,79,63,63,75,66,19.8
+STU1126,Sanket Shah,Male,Artificial Intelligence & Data Science,5,92.1,80,79,55,51,80,22.6
+STU1127,Shreya Dhumal,Female,Artificial Intelligence & Data Science,5,92.6,72,66,77,52,65,20.5
+STU1128,Harsh Sawant,Male,Computer Science & Business Systems,6,56.4,53,31,58,57,56,13.7
+STU1129,Shruti Gawde,Female,Computer Science & Business Systems,4,86.7,56,75,64,80,28,19.5
+STU1130,Mayur More,Male,Computer Science & Business Systems,4,85.6,86,75,56,87,83,21.5
+STU1131,Neha Shah,Female,Computer Science & Business Systems,6,95.9,83,45,83,60,77,20.7
+STU1132,Riddhi Gawde,Female,Artificial Intelligence & Data Science,4,88.4,54,24,73,89,93,18.9
+STU1133,Aditi Mehta,Female,Artificial Intelligence & Data Science,6,84.6,64,60,63,74,55,18.4
+STU1134,Yash Dhumal,Male,Computer Engineering,4,96.4,74,70,67,74,79,21.6
+STU1135,Harsh Kulkarni,Male,information technology,4,89.9,63,61,59,85,63,22.7
+STU1136,Shreya Salvi,Female,Information Technology,6,69.6,50,77,64,51,40,15.8
+STU1137,Tejas Dhumal,Male,Computer Science & Business Systems,5,87.8,63,54,66,94,59,21.3
+STU1138,Divya Bhoir,Female,Artificial Intelligence & Data Science,4,78.4,79,71,56,82,71,18.3
+STU1139,Vedant Joshi,Male,Computer Science & Business Systems,5,77.9,63,65,97,80,82,20.4
+STU1140,Swapnil Bhave,Male,Information Technology,4,86.7,59,47,63,68,75,22.1
+STU1141,Atharva More,Male,Information Technology,4,57.8,67,27,25,53,62,16.1
+STU1142,Akash Pawar,Male,Computer Science & Business Systems,5,60.0,36,34,55,36,63,15.2
+STU1143,Tejas Pandey,Male,Computer Science & Business Systems,4,84.3,74,51,87,60,77,19.9
+STU1144,Riddhi Shah,Female,Information Technology,5,78.5,86,69,60,80,67,18.3
+STU1145,Kunal Bhave,Male,Information Technology,6,87.5,67,52,70,57,54,20.8
+STU1146,Chetan Shah,Male,Computer Science & Business Systems,6,97.7,35,68,41,49,62,22.9
+STU1147,Arya Mehta,Female,Artificial Intelligence & Data Science,4,80.7,50,53,70,83,59,18.0
+STU1148,Tejas Bhoir,Male,Computer Science & Business Systems,6,48.6,58,32,66,35,50,11.4
+STU1149,Swapnil Joshi,Male,Information Technology,6,91.9,57,46,58,63,72,20.3
+STU1150,Kunal Mhatre,Male,computer engineering,6,82.5,88,44,92,72,61,18.0
+STU1151,Akash Sawant,Male,Information Technology,4,81.8,67,50,55,73,63,19.5
+STU1152,Suraj Tambe,Male,Computer Engineering,4,88.8,71,64,86,49,68,19.0
+STU1153,Aditi Bhoir,Female,Computer Science & Business Systems,6,75.1,39,53,38,87,84,16.8
+STU1154,Swapnil Mhatre,Male,Computer Science & Business Systems,4,80.5,59,61,38,99,79,18.8
+STU1155,Rohan Sawant,Male,Artificial Intelligence & Data Science,4,97.6,96,50,83,70,99,21.7
+STU1156,Yash Kulkarni,Male,Artificial Intelligence & Data Science,4,86.0,95,65,71,77,85,19.2
+STU1157,Kavya Deshmukh,Female,Information Technology,6,79.5,55,50,53,77,65,17.3
+STU1158,Mayur Deshmukh,Male,Computer Engineering,4,80.5,83,64,30,62,93,17.1
+STU1159,Suraj Gawde,Male,Computer Science & Business Systems,6,51.8,34,54,65,34,49,15.0
+STU1160,Mansi Gawde,Female,Computer Engineering,4,85.7,76,77,64,60,42,21.2
+STU1161,Tanmay Gawde,Male,Computer Science & Business Systems,6,91.5,86,72,81,76,54,19.9
+STU1162,Akshata Rane,Female,Computer Science & Business Systems,6,88.7,69,77,74,75,58,20.8
+STU1163,Sneha Joshi,Female,Artificial Intelligence & Data Science,6,92.0,50,79,65,51,84,19.7
+STU1164,Aditya Bhoir,Male,Computer Science & Business Systems,5,93.1,74,67,26,60,60,23.6
+STU1165,Ishita Sawant,Female,computer science & business systems,6,95.6,89,84,97,99,66,24.0
+STU1166,Aarav Mhatre,Male,Artificial Intelligence & Data Science,6,85.0,75,56,72,61,74,18.8
+STU1167,Prathamesh Patil,Male,Artificial Intelligence & Data Science,6,95.8,79,64,68,71,54,20.4
+STU1168,Akash Rane,Male,Computer Engineering,6,95.3,57,79,71,63,97,23.0
+STU1169,Mansi Pandey,Female,Information Technology,4,78.4,65,55,63,74,99,20.3
+STU1170,Gaurav Joshi,Male,Artificial Intelligence & Data Science,4,97.1,61,51,43,63,85,21.0
+STU1171,Priyanka Bhoir,Female,Computer Engineering,4,91.6,81,34,31,55,65,20.3
+STU1172,Arya Chavan,Female,Artificial Intelligence & Data Science,5,65.2,47,48,57,39,33,17.5
+STU1173,Deepali Mehta,Female,Computer Engineering,5,96.3,60,92,67,78,71,23.3
+STU1174,Suraj Salvi,Male,Computer Engineering,5,88.0,47,65,51,56,69,19.6
+STU1175,  MAYUR RANE  ,Male,Computer Science & Business Systems,6,94.7,82,56,50,78,73,21.0
+STU1176,Suyash Mehta,Male,Artificial Intelligence & Data Science,5,52.6,59,21,66,26,52,14.3
+STU1177,Vaishnavi Mehta,Female,Artificial Intelligence & Data Science,5,67.4,62,65,20,52,30,14.7
+STU1178,Ananya Pandey,Female,Computer Science & Business Systems,4,94.8,65,66,87,86,73,21.5
+STU1179,Tushar Salvi,Male,Artificial Intelligence & Data Science,6,75.2,68,62,54,67,75,19.3
+STU1180,Sanket Kadam,Male,computer science & business systems,6,48.1,50,20,40,47,68,12.1
+STU1181,Deepali Gawde,Female,Computer Engineering,5,94.9,54,40,65,63,59,20.2
+STU1182,Siddhi Chavan,Female,Artificial Intelligence & Data Science,5,82.8,82,99,60,94,53,18.5
+STU1183,Suraj Bhave,Male,Artificial Intelligence & Data Science,5,44.4,81,28,41,47,65,13.7
+STU1184,Suraj Sawant,Male,Computer Science & Business Systems,5,49.7,44,51,31,60,43,14.0
+STU1185,Aditi Mehta,Female,Computer Science & Business Systems,6,83.1,78,69,82,78,58,21.5
+STU1186,Arya Tambe,Female,Artificial Intelligence & Data Science,5,88.0,58,57,71,57,65,21.7
+STU1187,Pooja Shah,Female,Computer Science & Business Systems,4,83.9,72,55,55,77,99,19.6
+STU1188,Prathamesh Shinde,Male,Computer Science & Business Systems,4,88.1,88,56,64,84,81,21.0
+STU1189,Akash Vartak,Male,Information Technology,5,77.0,95,45,83,67,79,17.0
+STU1190,Vaishnavi Shinde,Female,Computer Science & Business Systems,4,84.9,82,57,66,69,83,20.5
+STU1191,Tanmay Rane,Male,Computer Science & Business Systems,4,97.3,60,80,69,57,59,23.9
+STU1192,Omkar Mhatre,Male,Information Technology,6,79.7,92,49,98,80,70,19.7
+STU1193,Suyash Gawde,Male,Information Technology,5,93.5,49,87,80,99,82,19.8
+STU1194,Suraj More,Male,Artificial Intelligence & Data Science,5,76.6,92,77,45,65,65,17.5
+STU1195,Riddhi Shah,Female,artificial intelligence & data science,5,73.7,34,45,20,48,45,18.9
+STU1196,Priyanka Salvi,Female,Computer Science & Business Systems,4,90.5,54,51,81,99,83,21.8
+STU1197,Sakshi Thakur,Female,Computer Science & Business Systems,4,49.1,50,23,41,39,39,13.5
+STU1198,Omkar Pawar,Male,Computer Science & Business Systems,5,55.3,63,51,43,57,49,13.3
+STU1199,Mrunal Kulkarni,Female,Artificial Intelligence & Data Science,5,85.3,66,51,57,93,92,20.7
+STU1200,  SANKET MEHTA  ,Male,Computer Engineering,6,47.1,71,20,30,51,68,11.2
+STU1201,Gaurav Sawant,Male,Computer Science & Business Systems,6,79.6,58,55,62,60,72,17.2
+STU1202,Priyanka Jadhav,Female,Information Technology,5,45.6,21,34,29,63,49,11.7
+STU1203,Pranali Pawar,Female,Information Technology,5,94.1,67,52,61,65,77,21.0
+STU1204,Aditi Shinde,Female,Artificial Intelligence & Data Science,5,88.5,75,49,73,38,65,22.4
+STU1205,Siddhi Bhoir,Female,Information Technology,4,68.9,27,21,63,44,57,17.0
+STU1206,Gaurav Pandey,Male,Artificial Intelligence & Data Science,5,85.4,83,72,81,72,63,18.2
+STU1207,Tanvi Jadhav,Female,Artificial Intelligence & Data Science,6,93.0,63,61,83,85,78,22.9
+STU1208,Kavya Rane,Female,Computer Engineering,5,68.6,36,43,32,66,52,16.1
+STU1209,Nikhil Kadam,Male,Computer Engineering,4,88.8,57,81,59,63,78,19.6
+STU1210,Neha Joshi,Female,information technology,6,82.6,77,60,54,66,99,21.5
+STU1211,Prathamesh Shinde,Male,Artificial Intelligence & Data Science,4,95.4,90,83,65,91,83,22.8
+STU1212,Suyash Dhumal,Male,Information Technology,6,85.6,49,44,44,83,81,19.2
+STU1213,Harsh Rane,Male,Artificial Intelligence & Data Science,5,95.4,74,58,85,66,63,23.3
+STU1214,Divya More,Female,Artificial Intelligence & Data Science,5,81.7,44,56,63,84,52,20.9
+STU1215,Rohan Kadam,Male,Artificial Intelligence & Data Science,4,69.4,49,43,55,46,49,17.5
+STU1216,Shruti Chavan,Female,Information Technology,5,63.3,42,40,41,31,34,16.7
+STU1217,Ananya Shah,Female,Computer Science & Business Systems,4,76.8,56,54,63,70,68,19.8
+STU1218,Mayur Chavan,Male,Computer Engineering,5,67.8,57,55,54,44,67,17.8
+STU1219,Siddhesh Pandey,Male,Computer Engineering,4,75.2,61,51,62,50,80,18.8
+STU1220,Aditya Kadam,Male,Computer Engineering,4,84.0,82,75,62,76,81,18.1
+STU1221,Tejas Mehta,Male,Information Technology,6,69.1,58,35,37,43,34,18.0
+STU1222,Atharva Bhoir,Male,Artificial Intelligence & Data Science,4,90.0,83,89,78,82,73,20.3
+STU1223,Deepali Thakur,Female,Information Technology,6,92.9,93,56,70,70,72,19.8
+STU1224,Vedant Mhatre,Male,Artificial Intelligence & Data Science,5,76.9,74,44,61,67,84,18.4
+STU1225,Riddhi Joshi,Female,information technology,5,92.9,58,47,59,83,82,20.6
+STU1226,Prathamesh Rane,Male,Computer Science & Business Systems,5,90.5,67,64,67,70,74,21.1
+STU1227,Akshata Mehta,Female,Information Technology,4,92.6,86,47,87,89,64,21.6
+STU1228,Deepali Dhumal,Female,Computer Science & Business Systems,5,83.5,83,45,65,62,80,18.1
+STU1229,Chetan Kadam,Male,Computer Engineering,6,76.0,77,55,51,71,91,19.6
+STU1230,Suraj Mehta,Male,Artificial Intelligence & Data Science,4,84.8,96,61,54,81,78,20.0
+STU1231,Sanket Gawde,Male,Computer Science & Business Systems,5,56.9,44,73,36,67,63,14.6
+STU1232,Mansi Gawde,Female,Artificial Intelligence & Data Science,5,86.6,70,64,56,88,58,19.3
+STU1233,Divya Vartak,Female,Computer Engineering,6,94.7,95,39,85,69,85,20.4
+STU1234,Atharva Thakur,Male,Artificial Intelligence & Data Science,4,78.3,52,62,69,72,99,18.3
+STU1235,Nikhil Mehta,Male,Computer Science & Business Systems,6,46.3,53,37,29,42,63,11.3
+STU1236,Ishita Shah,Female,Information Technology,5,80.5,68,70,62,70,65,17.5
+STU1237,Sakshi Thakur,Female,Computer Science & Business Systems,6,93.1,55,68,69,64,76,22.4
+STU1238,Tanmay Deshmukh,Male,Computer Engineering,4,97.8,59,59,68,61,97,21.3
+STU1239,Nikhil Joshi,Male,Computer Engineering,4,93.9,71,65,84,34,90,21.3
+STU1240,Siddhesh Chavan,Male,information technology,4,44.1,72,57,35,73,77,13.1
+STU1241,Sneha Rane,Female,Computer Science & Business Systems,4,85.2,67,47,54,79,53,19.1
+STU1242,Riddhi Patil,Female,Computer Engineering,6,84.7,94,58,63,68,79,18.7
+STU1243,Vedant Gawde,Male,Computer Science & Business Systems,5,83.4,55,59,79,60,65,19.0
+STU1244,Shruti Patil,Female,Artificial Intelligence & Data Science,6,88.7,76,64,73,69,82,20.9
+STU1245,Chetan Patil,Male,Computer Engineering,6,93.7,54,84,70,62,51,22.5
+STU1246,Aarav Shah,Male,Information Technology,6,88.2,56,79,99,81,61,19.9
+STU1247,Aditya Patil,Male,Computer Engineering,6,87.4,99,63,67,76,66,21.9
+STU1248,Samiksha Shinde,Female,Computer Engineering,4,95.2,39,76,62,82,67,20.4
+STU1249,Riddhi Jadhav,Female,Artificial Intelligence & Data Science,6,90.3,87,96,54,39,74,21.4
+STU1250,  TANVI MEHTA  ,Female,Information Technology,4,42.1,39,37,25,65,30,11.7

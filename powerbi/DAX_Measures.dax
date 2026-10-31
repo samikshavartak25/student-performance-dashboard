@@ -1,0 +1,112 @@
+// ==============================================================================
+// Project: Student Performance Analysis Dashboard
+// Author: Samiksha Prashant Vartak
+// Component: DAX_Measures.dax - Core DAX Formulas for Power BI Dashboard
+// ==============================================================================
+
+// -----------------------------------------------------------------------------
+// 1. Core KPIs
+// -----------------------------------------------------------------------------
+
+Total Students = 
+COUNTROWS('student_performance')
+
+Total Passed = 
+CALCULATE(
+    COUNTROWS('student_performance'),
+    'student_performance'[result_status] = "Pass"
+)
+
+Total Failed = 
+CALCULATE(
+    COUNTROWS('student_performance'),
+    'student_performance'[result_status] = "Fail"
+)
+
+Pass Percentage = 
+DIVIDE([Total Passed], [Total Students], 0)
+
+Fail Percentage = 
+DIVIDE([Total Failed], [Total Students], 0)
+
+Average Attendance Rate = 
+AVERAGE('student_performance'[attendance_pct])
+
+Average Overall Percentage = 
+AVERAGE('student_performance'[overall_pct])
+
+// -----------------------------------------------------------------------------
+// 2. Attendance & Risk Categorization DAX Measures
+// -----------------------------------------------------------------------------
+
+Attendance Defaulters Count = 
+CALCULATE(
+    COUNTROWS('student_performance'),
+    'student_performance'[attendance_pct] < 75.0
+)
+
+Attendance Defaulter Rate = 
+DIVIDE([Attendance Defaulters Count], [Total Students], 0)
+
+High Risk Student Count = 
+CALCULATE(
+    COUNTROWS('student_performance'),
+    'student_performance'[risk_category] = "High Risk"
+)
+
+Medium Risk Student Count = 
+CALCULATE(
+    COUNTROWS('student_performance'),
+    'student_performance'[risk_category] = "Medium Risk"
+)
+
+Defaulter Failure Rate = 
+VAR DefaulterStudents = CALCULATE(COUNTROWS('student_performance'), 'student_performance'[attendance_pct] < 75.0)
+VAR DefaulterFails = CALCULATE(COUNTROWS('student_performance'), 'student_performance'[attendance_pct] < 75.0, 'student_performance'[result_status] = "Fail")
+RETURN 
+DIVIDE(DefaulterFails, DefaulterStudents, 0)
+
+Regular Failure Rate = 
+VAR RegularStudents = CALCULATE(COUNTROWS('student_performance'), 'student_performance'[attendance_pct] >= 75.0)
+VAR RegularFails = CALCULATE(COUNTROWS('student_performance'), 'student_performance'[attendance_pct] >= 75.0, 'student_performance'[result_status] = "Fail")
+RETURN 
+DIVIDE(RegularFails, RegularStudents, 0)
+
+// -----------------------------------------------------------------------------
+// 3. Subject-wise Average Measures
+// -----------------------------------------------------------------------------
+
+Avg DBMS Score = AVERAGE('student_performance'[dbms_score])
+Avg DSA Score  = AVERAGE('student_performance'[dsa_score])
+Avg OS Score   = AVERAGE('student_performance'[os_score])
+Avg CN Score   = AVERAGE('student_performance'[cn_score])
+Avg BI Score   = AVERAGE('student_performance'[bi_score])
+
+DSA Failure Count = 
+CALCULATE(COUNTROWS('student_performance'), 'student_performance'[dsa_score] < 40)
+
+OS Failure Count = 
+CALCULATE(COUNTROWS('student_performance'), 'student_performance'[os_score] < 40)
+
+DBMS Failure Count = 
+CALCULATE(COUNTROWS('student_performance'), 'student_performance'[dbms_score] < 40)
+
+// -----------------------------------------------------------------------------
+// 4. Conditional Formatting & Dynamic Card Labels
+// -----------------------------------------------------------------------------
+
+Performance Alert Title = 
+IF(
+    [Defaulter Failure Rate] > 0.50,
+    "CRITICAL ALERT: Over 50% attendance defaulters are failing exams!",
+    "Academic metrics within standard threshold"
+)
+
+Risk Badge Color = 
+SWITCH(
+    SELECTEDVALUE('student_performance'[risk_category]),
+    "High Risk", "#EF4444",    // Red
+    "Medium Risk", "#F59E0B",  // Orange
+    "Low Risk", "#10B981",     // Green
+    "#6B7280"                  // Gray fallback
+)
